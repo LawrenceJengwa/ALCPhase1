@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ALC Phase1</string>
+    <string name="welcome_to_alc_4_0">Welcome to ALc 4.0</string>
+    <string name="about_alc">About ALC</string>
+    <string name="my_profile">My Profile</string>
+    <string name="picture">picture</string>
+    <string name="track_android">Track: Android</string>
+    <string name="country_south_africa">Country : South Africa</string>
+    <string name="email_lawrencejengwa_gmail_com">Email : lawrencejengwa@gmail.com</string>
+    <string name="phone_number">Phone Number:</string>
+    <string name="slack_username_lawrencej">Slack Username: LawrenceJ</string>
+</resources>
